@@ -7,6 +7,14 @@ body {
   background-size: cover;
 }
 
+h1 {
+  letter-spacing: 6px;
+  font-family: "Rubik Moonrocks";
+  font-size: 50px;
+  text-shadow: 4px 5px 3px rgba(0, 0, 0, 0.3);
+  color: #ff4d4d;
+}
+
 .image-container {
   text-align: center;
 }
